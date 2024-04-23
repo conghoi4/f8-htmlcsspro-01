@@ -555,6 +555,8 @@ a {
     height: 29px;
     align-items: center;
     justify-content: center;
+    border-radius: 3px;
+    background: #f9f9f9;
 }
 
 .footer .social-link:hover {
